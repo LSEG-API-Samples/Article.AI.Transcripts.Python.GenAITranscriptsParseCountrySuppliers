@@ -16,13 +16,14 @@ This repository provides a Jupyter Notebook that demonstrates how to use LSEG da
 - Python 3.8 or higher
 - Jupyter Notebook or JupyterLab
 - Required Python libraries:
+  - datetime
+  - json
+  - openai
+  - os
   - pandas
-  - numpy
-  - openpyxl
-  - requests
-  - tqdm
-  - ipywidgets
-  - matplotlib
+  - pysftp
+  - re
+  - xml.etree.ElementTree
 
 ## Usage
 1. Clone this repository or download the notebook file `GenAITranscriptsParseCountrySuppliers.ipynb`.
